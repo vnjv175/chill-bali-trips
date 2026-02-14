@@ -271,20 +271,23 @@ import { ACTIVITIES } from '../utils/siteData';
       // Fire both requests in parallel — either can succeed independently
       const results = await Promise.allSettled([
         fetch(form.action, { method: 'POST', body: formData }),
-        SHEETS_URL !== 'YOUR_APPS_SCRIPT_URL'
-          ? fetch(SHEETS_URL, {
-              method: 'POST',
-              mode: 'no-cors',
-              headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify(sheetData),
-            })
-          : Promise.resolve(),
+        fetch(SHEETS_URL, {
+          method: 'POST',
+          mode: 'no-cors',
+          headers: { 'Content-Type': 'text/plain' },
+          body: JSON.stringify(sheetData),
+        }),
       ]);
 
-      // Show success if at least one submission worked
-      const anySuccess = results.some(
-        r => r.status === 'fulfilled' && (!(r.value instanceof Response) || r.value.ok)
-      );
+      // Web3Forms returns a normal response we can check.
+      // Google Sheets (no-cors) returns an opaque response (ok=false, type='opaque')
+      // so treat any fulfilled opaque response as success.
+      const anySuccess = results.some(r => {
+        if (r.status !== 'fulfilled') return false;
+        const v = r.value;
+        if (!(v instanceof Response)) return true;
+        return v.ok || v.type === 'opaque';
+      });
 
       if (anySuccess) {
         steps?.forEach(s => (s as HTMLElement).classList.add('hidden'));
