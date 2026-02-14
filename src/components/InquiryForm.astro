@@ -9,7 +9,7 @@ import { ACTIVITIES } from '../utils/siteData';
     id="multi-step-form"
     class="card p-6 md:p-8"
   >
-    <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_KEY" />
+    <input type="hidden" name="access_key" value="49d1fc38-2407-42b9-a5be-83e187d8f147" />
     <input type="hidden" name="subject" value="New Inquiry from Chill Bali Trips" />
     <input type="hidden" name="from_name" value="Chill Bali Trips Website" />
     <input type="checkbox" name="botcheck" class="hidden" />
@@ -251,16 +251,47 @@ import { ACTIVITIES } from '../utils/siteData';
     e.preventDefault();
     const formData = new FormData(form);
 
-    try {
-      const response = await fetch(form.action, {
-        method: 'POST',
-        body: formData,
-      });
+    // Build structured data for Google Sheets
+    const activities = formData.getAll('activities').join(', ');
+    const sheetData = {
+      name: formData.get('name'),
+      email: formData.get('email'),
+      phone: formData.get('phone'),
+      arrival_date: formData.get('arrival_date'),
+      departure_date: formData.get('departure_date'),
+      group_size: formData.get('group_size'),
+      budget: formData.get('budget'),
+      activities: activities,
+      message: formData.get('message'),
+    };
 
-      if (response.ok) {
+    const SHEETS_URL = 'YOUR_APPS_SCRIPT_URL';
+
+    try {
+      // Fire both requests in parallel — either can succeed independently
+      const results = await Promise.allSettled([
+        fetch(form.action, { method: 'POST', body: formData }),
+        SHEETS_URL !== 'YOUR_APPS_SCRIPT_URL'
+          ? fetch(SHEETS_URL, {
+              method: 'POST',
+              mode: 'no-cors',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify(sheetData),
+            })
+          : Promise.resolve(),
+      ]);
+
+      // Show success if at least one submission worked
+      const anySuccess = results.some(
+        r => r.status === 'fulfilled' && (!(r.value instanceof Response) || r.value.ok)
+      );
+
+      if (anySuccess) {
         steps?.forEach(s => (s as HTMLElement).classList.add('hidden'));
         document.getElementById('form-success')?.classList.remove('hidden');
         form.querySelector('.flex.items-center.justify-between')?.classList.add('hidden');
+      } else {
+        alert('Something went wrong. Please try WhatsApp instead!');
       }
     } catch {
       alert('Something went wrong. Please try WhatsApp instead!');
