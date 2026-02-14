@@ -1,0 +1,97 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = (await getCollection('blog'))
+  .filter(post => !post.data.draft)
+  .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
+
+const categories = [...new Set(allPosts.map(p => p.data.category))];
+---
+
+<BaseLayout
+  title="Bali Travel Blog — Tips, Guides & Insider Knowledge"
+  description="Expert Bali travel guides, activity reviews, itinerary ideas, and insider tips from local concierge Gede. Updated for 2026."
+>
+  <section class="section-padding pt-32">
+    <div class="container-custom">
+      <div class="text-center max-w-3xl mx-auto mb-12">
+        <h1 class="text-4xl md:text-5xl font-bold text-white mb-4">Bali Travel Blog</h1>
+        <p class="text-gray-400 text-lg">Insider guides, activity reviews, and travel tips from someone who actually lives here. Updated for 2026.</p>
+      </div>
+
+      <!-- Category Filter -->
+      {categories.length > 0 && (
+        <div class="flex flex-wrap justify-center gap-2 mb-12">
+          <button class="px-4 py-2 text-sm font-medium rounded-full bg-gold-500 text-ocean-950 category-btn active" data-category="all">All Posts</button>
+          {categories.map(cat => (
+            <button class="px-4 py-2 text-sm font-medium rounded-full bg-white/5 text-gray-300 hover:bg-white/10 transition-colors category-btn" data-category={cat}>{cat}</button>
+          ))}
+        </div>
+      )}
+
+      <!-- Blog Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="blog-grid">
+        {allPosts.map(post => (
+          <a href={`/blog/${post.id}/`} class="card-hover group blog-card" data-category={post.data.category}>
+            {post.data.image && (
+              <div class="aspect-[16/9] bg-ocean-800 overflow-hidden">
+                <img src={post.data.image} alt={post.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+              </div>
+            )}
+            {!post.data.image && (
+              <div class="aspect-[16/9] bg-gradient-to-br from-gold-500/10 to-ocean-800 flex items-center justify-center">
+                <span class="text-4xl opacity-30">📝</span>
+              </div>
+            )}
+            <div class="p-5">
+              <div class="flex items-center gap-3 mb-3">
+                <span class="text-xs px-2.5 py-1 bg-gold-500/10 text-gold-400 rounded-full">{post.data.category}</span>
+                {post.data.readingTime && (
+                  <span class="text-xs text-gray-500">{post.data.readingTime}</span>
+                )}
+              </div>
+              <h2 class="text-lg font-semibold text-white group-hover:text-gold-400 transition-colors mb-2 line-clamp-2">{post.data.title}</h2>
+              <p class="text-gray-400 text-sm leading-relaxed line-clamp-2">{post.data.description}</p>
+              <time class="block mt-3 text-xs text-gray-500" datetime={post.data.pubDate}>
+                {new Date(post.data.pubDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+              </time>
+            </div>
+          </a>
+        ))}
+      </div>
+
+      {allPosts.length === 0 && (
+        <div class="text-center py-20">
+          <p class="text-gray-400 text-lg">Blog posts coming soon! Check back for Bali travel guides, tips, and insider knowledge.</p>
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  const btns = document.querySelectorAll('.category-btn');
+  const cards = document.querySelectorAll('.blog-card');
+
+  btns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      btns.forEach(b => {
+        b.classList.remove('bg-gold-500', 'text-ocean-950', 'active');
+        b.classList.add('bg-white/5', 'text-gray-300');
+      });
+      btn.classList.add('bg-gold-500', 'text-ocean-950', 'active');
+      btn.classList.remove('bg-white/5', 'text-gray-300');
+
+      const cat = (btn as HTMLElement).dataset.category;
+      cards.forEach(card => {
+        const el = card as HTMLElement;
+        if (cat === 'all' || el.dataset.category === cat) {
+          el.style.display = '';
+        } else {
+          el.style.display = 'none';
+        }
+      });
+    });
+  });
+</script>
