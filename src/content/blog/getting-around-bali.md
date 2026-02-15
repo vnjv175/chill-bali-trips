@@ -1,10 +1,11 @@
 ---
 title: "Getting Around Bali: Transportation Guide"
 description: "Every way to get around Bali in 2026 — scooters, private drivers, ride-hailing apps, taxis, shuttles, and more. Real costs, honest pros and cons, and practical tips."
-pubDate: "2026-08-06"
+pubDate: "2025-10-10"
 category: "Practical Guides"
 tags: ["transport", "getting around", "scooter", "driver"]
 readingTime: "9 min read"
+image: "https://images.unsplash.com/photo-1712213248719-aade0e02a591?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Getting around Bali is simultaneously easy and complicated. The island is compact — you can drive from the airport to [Ubud](/areas/ubud/) in 90 minutes, or from [Canggu](/areas/canggu/) to [Uluwatu](/areas/uluwatu/) in about an hour. But Bali has no rail system, no real public bus network, and roads that range from smooth coastal highways to potholed village lanes clogged with ceremony processions. Your transport choices shape your entire trip experience.

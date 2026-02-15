@@ -1,10 +1,11 @@
 ---
 title: "Bali Temple Etiquette & Best Temples to Visit"
 description: "A respectful guide to visiting Bali's temples — what to wear, how to behave, which ceremonies to observe, and the 15 most impressive temples to add to your itinerary."
-pubDate: "2026-10-08"
+pubDate: "2025-11-19"
 category: "Practical Guides"
 tags: ["temples", "etiquette", "culture", "religion"]
 readingTime: "10 min read"
+image: "https://images.unsplash.com/photo-1742677356610-e9bcea7a41c3?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Bali has over 20,000 temples — more temples than homes, by some counts. They are the spiritual backbone of the island, central to daily Balinese life in a way that goes far beyond tourism or historical preservation. Every village has at least three temples. Every compound has a family temple. And on any given day, you'll see Balinese people in ceremonial dress carrying offerings to one of these sacred spaces.

@@ -1,10 +1,11 @@
 ---
 title: "Best Beaches in Bali: 30 You Must Visit"
 description: "A local's guide to the 30 best beaches in Bali — from hidden coves and world-class surf breaks to family-friendly shores and dramatic cliffside beaches. Includes practical tips for each."
-pubDate: "2026-10-01"
+pubDate: "2025-11-14"
 category: "Practical Guides"
 tags: ["beaches", "swimming", "surfing"]
 readingTime: "12 min read"
+image: "https://images.unsplash.com/photo-1588625206014-ee98e57eaddd?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Bali has over 100 kilometers of coastline, and the beaches vary so dramatically that you could spend a month here and never visit the same type of beach twice. The southern tip hides secret coves beneath towering limestone cliffs. The west coast offers wide sandy stretches perfect for surfing and sunsets. The east coast reveals volcanic black sand shores with calm waters and coral reefs. And the offshore islands — Nusa Penida, Lembongan, Ceningan — have some of the most spectacular coastal scenery in Southeast Asia.

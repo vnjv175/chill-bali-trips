@@ -1,10 +1,11 @@
 ---
 title: "Best Restaurants in Seminyak (by Cuisine & Budget)"
 description: "A local's guide to the best restaurants in Seminyak, Bali — from world-class fine dining to hidden warungs. Organized by cuisine type and budget so you can eat well at every price point."
-pubDate: "2026-08-13"
+pubDate: "2025-10-15"
 category: "Practical Guides"
 tags: ["restaurants", "seminyak", "food", "dining"]
 readingTime: "9 min read"
+image: "https://images.unsplash.com/photo-1616671285410-2a671a9a433d?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Seminyak is where Bali's dining scene reaches its peak. This stretch of southwest coast packs more culinary talent per square kilometer than anywhere else on the island — Michelin-trained chefs working alongside warung grandmothers, Japanese omakase counters next to smoky roadside satay grills, and everything in between.

@@ -1,10 +1,11 @@
 ---
 title: "Bali Festivals & Events Calendar 2026"
 description: "A month-by-month guide to Bali's biggest festivals and events in 2026. From Nyepi (Day of Silence) to Galungan, temple ceremonies, and cultural celebrations."
-pubDate: "2027-01-28"
+pubDate: "2026-01-28"
 category: "Comparisons"
 tags: ["festivals", "events", "culture", "calendar"]
 readingTime: "8 min read"
+image: "https://images.unsplash.com/photo-1729853529570-d02d3dd03ea0?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Bali is not just a destination — it is a living culture where ceremonies, festivals, and rituals happen almost every day of the year. The Balinese calendar is packed with celebrations ranging from island-wide holidays that shut down the entire island to village-level temple ceremonies that you might stumble upon simply by walking down the right street at the right time.

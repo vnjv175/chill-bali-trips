@@ -1,10 +1,11 @@
 ---
 title: "Bali for Families: Kid-Friendly Activities by Age"
 description: "The complete family travel guide to Bali, organized by age group. Discover the best activities for toddlers, kids, tweens, and teens — plus practical tips on safety, transport, and where to stay."
-pubDate: "2026-10-22"
+pubDate: "2025-11-27"
 category: "Audience Guides"
 tags: ["families", "kids", "family travel"]
 readingTime: "10 min read"
+image: "https://images.unsplash.com/photo-1662950267280-0cdf5f7139b4?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Bali might seem like an adults-only destination — all surfing, nightlife, and yoga retreats — but the reality is completely different. Families have been coming here for decades, and the island has evolved into one of the best family travel destinations in Southeast Asia. Balinese culture revolves around children (they're considered blessings from the gods), so you and your kids will be welcomed everywhere you go.

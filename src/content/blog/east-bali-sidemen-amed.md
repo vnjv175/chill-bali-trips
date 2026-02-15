@@ -1,10 +1,11 @@
 ---
 title: "East Bali: Sidemen, Amed & Beyond"
 description: "Explore East Bali — the Sidemen Valley, Amed coast, ancient temples, and untouched villages. The most detailed guide to Bali's off-the-beaten-path east."
-pubDate: "2026-07-02"
+pubDate: "2025-09-18"
 category: "Location Guides"
 tags: ["east bali", "sidemen", "amed", "off beaten path"]
 readingTime: "10 min read"
+image: "https://images.unsplash.com/photo-1589443152682-5b24e1abd34f?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 East Bali is where the island shows its truest face. While the south coast builds another beach club and [Ubud](/areas/ubud/) absorbs another wave of yoga retreats, the eastern regions remain deeply traditional, spectacularly beautiful, and refreshingly quiet. Mount Agung, Bali's highest and most sacred volcano, dominates the landscape here, and everything — the agriculture, the temples, the daily rhythms of village life — orients around it.

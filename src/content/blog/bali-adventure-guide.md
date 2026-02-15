@@ -1,10 +1,11 @@
 ---
 title: "Bali Adventure Guide: Adrenaline Activities Ranked"
 description: "Every adrenaline activity in Bali ranked by intensity — from gentle introductions to full-send extreme sports. Includes costs, difficulty levels, and insider tips for each adventure."
-pubDate: "2026-11-26"
+pubDate: "2025-12-19"
 category: "Audience Guides"
 tags: ["adventure", "adrenaline", "extreme sports"]
 readingTime: "9 min read"
+image: "https://images.unsplash.com/photo-1676809414802-be260bca80e8?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Bali is an adventure playground disguised as a tropical paradise. Behind the yoga studios and beach clubs lies an island of active volcanoes, churning rapids, reef breaks that demand respect, and jungle terrain built for exploration. Whether you're looking for a gentle rush or a genuine test of nerve, there's an adrenaline activity calibrated to your comfort level.

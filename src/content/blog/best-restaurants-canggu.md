@@ -1,10 +1,11 @@
 ---
 title: "Best Restaurants in Canggu (by Cuisine & Budget)"
 description: "The definitive guide to eating in Canggu, Bali — from beachfront seafood and authentic warungs to the best brunch spots and international cuisine. Organized by cuisine and budget."
-pubDate: "2026-08-27"
+pubDate: "2025-10-23"
 category: "Practical Guides"
 tags: ["restaurants", "canggu", "food", "dining"]
 readingTime: "9 min read"
+image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Canggu has undergone a culinary transformation over the past few years. What was once a quiet stretch of rice paddies and surf breaks between [Seminyak](/areas/seminyak/) and Tanah Lot has become one of Bali's most dynamic food neighborhoods — a sprawling, slightly chaotic mix of surf shacks, specialty coffee roasters, Instagram-famous brunch spots, authentic warungs, and increasingly ambitious restaurants.

@@ -1,10 +1,11 @@
 ---
 title: "Cycling Tours in Bali: Best Routes from Ubud to the Coast"
 description: "A complete guide to cycling tours in Bali — the best downhill and village routes, self-guided options, what to expect, pricing, and tips for every fitness level."
-pubDate: "2026-04-16"
+pubDate: "2025-08-01"
 category: "Activities"
 tags: ["cycling", "bike tours", "ubud"]
 readingTime: "9 min read"
+image: "https://images.unsplash.com/photo-1624352639222-99c4461975ec?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Cycling in Bali is one of those activities that consistently surprises visitors. Most people don't come to the island planning to ride a bike, but those who do rate it among their top experiences. There's something about rolling through rice terraces, past stone temples, and through quiet villages at cycling speed that reveals a side of Bali you simply can't see from a car window or a scooter seat.

@@ -1,10 +1,11 @@
 ---
 title: "Recovery & Wellness in Bali: Spas, Ice Baths, Saunas"
 description: "A complete guide to recovery and wellness in Bali — the best spas, ice bath facilities, infrared saunas, float tanks, and holistic therapies across the island."
-pubDate: "2026-04-30"
+pubDate: "2025-08-10"
 category: "Activities"
 tags: ["wellness", "spa", "recovery", "ice bath"]
 readingTime: "9 min read"
+image: "https://images.unsplash.com/flagged/photo-1564767609342-620cb19b2357?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Bali has always been a wellness destination, but the recovery scene has evolved far beyond traditional Balinese massage. The island now has a full ecosystem of modern recovery modalities — ice baths, infrared saunas, cryotherapy, float tanks, IV drips, and contrast therapy — alongside the world-class spas and holistic healing traditions that have drawn visitors for decades.

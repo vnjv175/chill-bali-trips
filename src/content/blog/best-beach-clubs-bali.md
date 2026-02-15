@@ -1,10 +1,11 @@
 ---
 title: "Best Beach Clubs in Bali (from Chill to Party)"
 description: "The definitive guide to Bali's best beach clubs — from relaxed daybeds and infinity pools to world-class DJs and all-night parties. Covers every area, budget, and vibe."
-pubDate: "2026-09-03"
+pubDate: "2025-10-28"
 category: "Practical Guides"
 tags: ["beach clubs", "nightlife", "party"]
 readingTime: "10 min read"
+image: "https://images.unsplash.com/photo-1662950267280-0cdf5f7139b4?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Bali's beach club scene has become legendary, and for good reason. Where else can you lounge on a daybed above the Indian Ocean, swim in an infinity pool overlooking a volcanic coastline, eat restaurant-quality food, drink craft cocktails, and watch a world-class DJ play as the sun drops below the horizon — all in a single afternoon?

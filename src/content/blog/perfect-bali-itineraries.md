@@ -1,10 +1,11 @@
 ---
 title: "Perfect Bali Itineraries: 3, 5, 7, 10, and 14 Days"
 description: "Day-by-day Bali itineraries for every trip length. Whether you have 3 days or 2 weeks, these local-approved plans cover the best temples, beaches, waterfalls, and hidden gems."
-pubDate: "2026-01-22"
+pubDate: "2025-06-05"
 category: "Ultimate Guides"
 tags: ["bali itinerary", "trip planning", "travel guide"]
 readingTime: "18 min read"
+image: "https://plus.unsplash.com/premium_photo-1661955632358-85564b2810b2?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Planning a Bali trip is exciting until you realize how much there is to see and how spread out it all is. The island is only about 140 kilometers wide, but Bali's roads, one-lane bridges, and ceremonial processions mean a 50-kilometer drive can take two hours. Choosing the wrong order for your stops can waste entire half-days sitting in traffic.

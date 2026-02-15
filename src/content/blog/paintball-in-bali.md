@@ -1,10 +1,11 @@
 ---
 title: "Paintball in Bali: Where to Go & What to Expect"
 description: "Everything you need to know about paintball in Bali — the best venues, pricing, what to wear, group booking tips, and how to plan the perfect adrenaline-filled day out."
-pubDate: "2026-03-26"
+pubDate: "2025-07-19"
 category: "Activities"
 tags: ["paintball", "group activities", "adventure"]
 readingTime: "7 min read"
+image: "https://images.unsplash.com/photo-1650995696988-c269f4016475?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 If you're traveling with a group of mates, celebrating a birthday, or just looking for something more exciting than another beach day, paintball in Bali delivers exactly the kind of high-energy fun you're after. The island has several well-run paintball venues with jungle courses, military-style arenas, and packages that make it surprisingly affordable compared to what you'd pay back home.

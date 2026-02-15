@@ -1,10 +1,11 @@
 ---
 title: "Best Day Trips from Seminyak"
 description: "Discover the best day trips from Seminyak, Bali. From Ubud's rice terraces to Uluwatu's clifftop temples, explore top excursions within easy reach of Seminyak."
-pubDate: "2027-01-07"
+pubDate: "2026-01-14"
 category: "Comparisons"
 tags: ["day trips", "seminyak", "excursions"]
 readingTime: "9 min read"
+image: "https://images.unsplash.com/photo-1565970141934-339d18ee310d?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 [Seminyak](/areas/seminyak/) is one of Bali's most popular bases for good reason — upscale dining, excellent shopping, beautiful sunsets, and easy access to the rest of the island. But as much as Seminyak delivers on food, nightlife, and beach vibes, the real magic of Bali lies beyond its borders.

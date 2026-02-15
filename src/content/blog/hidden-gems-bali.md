@@ -1,10 +1,11 @@
 ---
 title: "Hidden Gems in Bali: 15 Off-the-Beaten-Path Spots"
 description: "Discover 15 genuinely hidden gems in Bali that most tourists never find. Secret waterfalls, empty beaches, untouched villages, and local-only spots from a Bali insider."
-pubDate: "2027-01-21"
+pubDate: "2026-01-23"
 category: "Comparisons"
 tags: ["hidden gems", "off beaten path", "secret spots"]
 readingTime: "10 min read"
+image: "https://images.unsplash.com/photo-1749055485774-2beca1f76a1c?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Every "hidden gems in Bali" article on the internet lists the same places — Tegallalang Rice Terraces, Tirta Gangga, the Ubud Monkey Forest. Those are all excellent, but they are not hidden. They are on every itinerary, in every guidebook, and swarming with visitors by 9 AM.

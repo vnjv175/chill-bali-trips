@@ -1,10 +1,11 @@
 ---
 title: "Ultimate Guide to Bali: 100+ Things to Do in 2026"
 description: "The most comprehensive Bali travel guide ever written. 100+ activities, hidden gems, practical tips, and insider knowledge from a local expert. Updated for 2026."
-pubDate: "2026-01-15"
+pubDate: "2025-06-01"
 category: "Ultimate Guides"
 tags: ["bali guide", "things to do", "travel guide", "2026"]
 readingTime: "25 min read"
+image: "https://images.unsplash.com/photo-1738778017304-361eb5e9aa24?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Bali isn't just an island — it's a world unto itself. From the terraced rice paddies of Ubud to the thundering surf of Uluwatu, from sacred water temples to world-class beach clubs, this Indonesian paradise offers something for every type of traveler.

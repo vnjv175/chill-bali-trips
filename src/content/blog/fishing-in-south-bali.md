@@ -1,10 +1,11 @@
 ---
 title: "Fishing in South Bali: Deep Sea Charters & Shore Fishing"
 description: "A complete guide to fishing in South Bali — deep sea charters from Benoa Harbour, shore fishing spots, what you'll catch, pricing, and how to book the right trip."
-pubDate: "2026-04-02"
+pubDate: "2025-07-23"
 category: "Activities"
 tags: ["fishing", "deep sea", "charters"]
 readingTime: "8 min read"
+image: "https://images.unsplash.com/photo-1726250947679-3d89963934d8?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Bali sits in the middle of some of the richest fishing waters in the Indonesian archipelago. The deep channels between Bali and Lombok, the nutrient-rich upwellings south of the Bukit peninsula, and the warm currents of the Indian Ocean create conditions that attract everything from yellowfin tuna and mahi-mahi to giant trevally and blue marlin.

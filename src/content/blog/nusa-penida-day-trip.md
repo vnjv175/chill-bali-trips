@@ -1,10 +1,11 @@
 ---
 title: "Nusa Penida Day Trip: Complete Guide"
 description: "Everything you need to know about visiting Nusa Penida from Bali — fast boat logistics, the best spots to visit, tour options, costs, safety tips, and how to make the most of one day."
-pubDate: "2026-05-14"
+pubDate: "2025-08-19"
 category: "Activities"
 tags: ["nusa penida", "island", "day trip"]
 readingTime: "10 min read"
+image: "https://images.unsplash.com/photo-1566987827971-f2c40e748a54?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Nusa Penida is the rugged, dramatic island that sits 45 minutes by fast boat from Bali's southeast coast. If Bali is the polished resort experience, Nusa Penida is its wild, untamed sibling — towering limestone cliffs, turquoise water so vivid it looks digitally enhanced, and landscapes that feel like they belong in a nature documentary rather than a day trip.

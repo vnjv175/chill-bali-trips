@@ -1,10 +1,11 @@
 ---
 title: "Bali in the Rainy Season: Is It Worth Visiting?"
 description: "Everything you need to know about visiting Bali during the wet season (November-March). Honest breakdown of what to expect, what's better, what's worse, and how to make the most of it."
-pubDate: "2026-09-10"
+pubDate: "2025-11-01"
 category: "Practical Guides"
 tags: ["rainy season", "wet season", "weather"]
 readingTime: "8 min read"
+image: "https://images.unsplash.com/photo-1573014573152-feb173e5d458?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 The question comes up constantly: should I visit Bali during rainy season? The short answer is yes, absolutely — but with the right expectations. The rainy season (roughly November through March) is a fundamentally different experience from the dry season, and whether that's better or worse depends entirely on what you're looking for.

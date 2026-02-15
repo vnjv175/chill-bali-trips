@@ -1,10 +1,11 @@
 ---
 title: "Things to Do in Ubud: The Complete Guide"
 description: "The ultimate guide to Ubud, Bali — temples, rice terraces, art, food, yoga, markets, waterfalls, and hidden gems. Everything you need to plan your time in Bali's cultural heart."
-pubDate: "2026-05-21"
+pubDate: "2025-08-23"
 category: "Location Guides"
 tags: ["ubud", "things to do", "culture"]
 readingTime: "12 min read"
+image: "https://images.unsplash.com/photo-1557093793-d149a38a1be8?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Ubud is the cultural and spiritual heartbeat of Bali. Set among lush river valleys and terraced rice paddies in the island's central highlands, it's where Balinese art, dance, spirituality, and cuisine converge in a setting that's as beautiful as anywhere on Earth.

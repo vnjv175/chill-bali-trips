@@ -1,10 +1,11 @@
 ---
 title: "Best Waterfalls in Bali: 24 You Can't Miss (with Difficulty Ratings)"
 description: "A complete guide to 24 of Bali's best waterfalls with difficulty ratings, access info, entrance fees, and insider tips. From easy tourist favorites to hidden jungle gems."
-pubDate: "2026-02-12"
+pubDate: "2025-06-18"
 category: "Activities"
 tags: ["waterfalls", "nature", "hiking"]
 readingTime: "16 min read"
+image: "https://plus.unsplash.com/premium_photo-1697730247123-0ce641e72388?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Bali has more waterfalls than any island this size has a right to. They cascade out of jungle-covered cliffs, hide behind cave walls, and thunder into deep turquoise pools that beg you to jump in. Some are easy enough for your grandmother to visit. Others require scrambling down muddy ravines while holding onto tree roots.

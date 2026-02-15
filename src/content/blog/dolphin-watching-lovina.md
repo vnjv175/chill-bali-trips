@@ -1,10 +1,11 @@
 ---
 title: "Dolphin Watching in Lovina: What to Expect"
 description: "A complete guide to dolphin watching in Lovina, North Bali: what to expect, best time to go, ethical considerations, success rates, and how to make the most of your trip."
-pubDate: "2026-03-19"
+pubDate: "2025-07-10"
 category: "Activities"
 tags: ["dolphins", "lovina", "north bali"]
 readingTime: "10 min read"
+image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Before the sun rises over North Bali, dozens of narrow wooden outrigger boats launch from the black sand beaches of [Lovina](/areas/lovina/) and motor out into the calm Bali Sea. Their mission: to find the pods of wild spinner dolphins that live in these waters year-round.

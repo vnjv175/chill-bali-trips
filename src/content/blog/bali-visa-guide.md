@@ -1,10 +1,11 @@
 ---
 title: "Bali Visa Guide 2026: Everything You Need to Know"
 description: "Complete guide to Bali visas in 2026 — visa on arrival, e-VOA, visa-free entry, B211A social visas, and the digital nomad visa. Requirements, costs, and how to extend."
-pubDate: "2026-07-30"
+pubDate: "2025-10-06"
 category: "Practical Guides"
 tags: ["visa", "immigration", "travel documents"]
 readingTime: "8 min read"
+image: "https://plus.unsplash.com/premium_photo-1661878915254-f3163e91d870?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Indonesia's visa system has changed significantly in recent years, and the information online ranges from outdated to outright wrong. This guide covers exactly what you need to know about entering Bali in 2026 — the visa types available, who qualifies for what, current costs, and how extensions work.

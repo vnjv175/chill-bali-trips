@@ -1,10 +1,11 @@
 ---
 title: "Things to Do in Lovina: North Bali's Best-Kept Secret"
 description: "Discover Lovina and North Bali — wild dolphins, volcanic hot springs, hidden waterfalls, and the peaceful side of the island most tourists never see."
-pubDate: "2026-06-25"
+pubDate: "2025-09-14"
 category: "Location Guides"
 tags: ["lovina", "north bali", "dolphins"]
 readingTime: "10 min read"
+image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Most visitors to Bali never make it north. They land at the airport, shuttle to [Seminyak](/areas/seminyak/) or [Canggu](/areas/canggu/), maybe spend a few days in Ubud, and fly home thinking they've seen the island. They haven't. The real Bali — the Bali that existed before the surf schools and beach clubs — is alive and thriving along the north coast, and Lovina is its gateway.

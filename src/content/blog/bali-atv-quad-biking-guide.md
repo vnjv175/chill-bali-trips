@@ -1,10 +1,11 @@
 ---
 title: "Bali ATV & Quad Biking: Complete Guide + Best Tours"
 description: "Everything you need to know about ATV and quad biking in Bali: best courses, what to expect, safety tips, prices, and how to choose the right tour for your group."
-pubDate: "2026-02-19"
+pubDate: "2025-06-23"
 category: "Activities"
 tags: ["atv", "quad biking", "adventure"]
 readingTime: "12 min read"
+image: "https://images.unsplash.com/photo-1534293506745-bdd75da882ce?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 There is something deeply satisfying about blasting through a Balinese rice paddy on a quad bike, mud flying everywhere, with a volcanic mountain in the background. [ATV riding](/activities/atv-quad-biking/) is one of Bali's most popular adventure activities, and it is easy to see why — it is accessible to almost everyone, does not require any prior experience, and takes you through landscapes you would never see from a car or on foot.

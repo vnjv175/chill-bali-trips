@@ -1,10 +1,11 @@
 ---
 title: "Things to Do in Seminyak: The Complete Guide"
 description: "The ultimate guide to Seminyak, Bali — beach clubs, restaurants, nightlife, shopping, spas, sunset spots, and everything else you need to plan your time in Bali's most polished neighborhood."
-pubDate: "2026-05-28"
+pubDate: "2025-08-27"
 category: "Location Guides"
 tags: ["seminyak", "things to do", "nightlife", "beach"]
 readingTime: "12 min read"
+image: "https://images.unsplash.com/photo-1720728659932-0233fb9b6616?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Seminyak is Bali's most refined coastal neighborhood — a stretch of beach and parallel streets where boutique hotels, designer shops, acclaimed restaurants, and world-famous beach clubs create an atmosphere that's more cosmopolitan than tropical backpacker and more relaxed than full-blown luxury resort.

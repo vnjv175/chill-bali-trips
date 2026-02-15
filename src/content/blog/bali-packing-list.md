@@ -1,10 +1,11 @@
 ---
 title: "Bali Packing List: What to Bring (and What to Skip)"
 description: "A practical, no-fluff Bali packing list covering what you actually need, what to leave at home, and what to buy when you arrive. Includes lists for specific activities and seasons."
-pubDate: "2026-09-17"
+pubDate: "2025-11-05"
 category: "Practical Guides"
 tags: ["packing", "what to bring", "travel prep"]
 readingTime: "8 min read"
+image: "https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?w=1200&h=675&fit=crop&auto=format&q=80"
 ---
 
 Packing for Bali is simultaneously easy and tricky. Easy because the tropical climate means you won't need much — a week's worth of lightweight clothing fits in a carry-on. Tricky because the variety of activities and settings on the island means you might go from a volcano summit at dawn to a beach club at sunset to a temple ceremony in between, and each demands something different.
