@@ -59,7 +59,7 @@ export const ACTIVITIES = [
     duration: '6-8 hours',
     difficulty: 'Moderate to Hard',
     location: 'Kintamani',
-    image: 'https://plus.unsplash.com/premium_photo-1754552409981-0c0d4e1bb629?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://plus.unsplash.com/premium_photo-1690552679122-1660e10f73a5?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Active volcano', 'Sunrise panorama', 'Caldera lake views', 'Breakfast at summit'],
   },
   {
@@ -107,7 +107,7 @@ export const ACTIVITIES = [
     duration: '4-8 hours',
     difficulty: 'Easy',
     location: 'Various',
-    image: 'https://plus.unsplash.com/premium_photo-1721405381792-4cd4e35f9c79?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1555865138-193ba536d7e0?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Uluwatu sunset', 'Tirta Empul purification', 'Tanah Lot', 'Besakih Mother Temple'],
   },
   {
@@ -143,7 +143,7 @@ export const ACTIVITIES = [
     duration: '2-3 hours',
     difficulty: 'All levels',
     location: 'Seminyak / Canggu / Uluwatu',
-    image: 'https://images.unsplash.com/photo-1654131060490-d6968f85fa4c?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1654137065633-c60d73b211f0?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['All skill levels', 'Board rental', 'Certified instructors', 'Warm tropical water'],
   },
   {
@@ -167,7 +167,7 @@ export const ACTIVITIES = [
     duration: '4-5 hours',
     difficulty: 'Easy',
     location: 'Ubud / Seminyak',
-    image: 'https://images.unsplash.com/photo-1765267642194-1355aafa06f8?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1680674814945-7945d913319c?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Market visit', 'Hands-on cooking', '5+ dishes', 'Recipe cards'],
   },
   {
@@ -254,7 +254,7 @@ export const AREAS = [
     title: 'Canggu',
     description: 'Bali\'s booming digital nomad hub — surf breaks, hip cafes, coworking spaces, and a laid-back creative scene.',
     vibe: 'Surf & Digital Nomad',
-    image: 'https://images.unsplash.com/photo-1670241678108-be2862160d77?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1578726707335-a01c2679b263?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Surf breaks', 'Hip cafes', 'Coworking', 'Rice field walks'],
   },
   {
@@ -278,7 +278,7 @@ export const AREAS = [
     title: 'Lovina',
     description: 'North Bali\'s tranquil coast — dolphin watching, volcanic hot springs, waterfalls, and a peaceful escape from the south.',
     vibe: 'Peaceful & Natural',
-    image: 'https://images.unsplash.com/photo-1677138731748-50543a24054f?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1605427113122-5ea67f237d3e?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Dolphin watching', 'Hot springs', 'Waterfalls', 'Black sand beaches'],
   },
 ];
