@@ -5,7 +5,7 @@ pubDate: "2025-07-23"
 category: "Activities"
 tags: ["fishing", "deep sea", "charters"]
 readingTime: "8 min read"
-image: "https://images.unsplash.com/photo-1726250947679-3d89963934d8?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://plus.unsplash.com/premium_photo-1745627000561-b74c9c173082?w=1200&h=675&fit=crop&q=80"
 ---
 
 Bali sits in the middle of some of the richest fishing waters in the Indonesian archipelago. The deep channels between Bali and Lombok, the nutrient-rich upwellings south of the Bukit peninsula, and the warm currents of the Indian Ocean create conditions that attract everything from yellowfin tuna and mahi-mahi to giant trevally and blue marlin.

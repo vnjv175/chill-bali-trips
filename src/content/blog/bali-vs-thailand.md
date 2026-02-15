@@ -5,7 +5,7 @@ pubDate: "2026-01-10"
 category: "Comparisons"
 tags: ["bali vs thailand", "comparison", "southeast asia"]
 readingTime: "10 min read"
-image: "https://images.unsplash.com/photo-1561009226-7a820d647a40?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1722104870041-b6effc3da46f?w=1200&h=675&fit=crop&q=80"
 ---
 
 It is one of the most debated questions in Southeast Asian travel: should you go to Bali or Thailand? Both destinations attract millions of visitors each year, both offer tropical beauty at affordable prices, and both have earned their reputations as bucket-list destinations for good reason.

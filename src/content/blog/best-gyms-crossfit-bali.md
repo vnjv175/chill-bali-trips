@@ -5,7 +5,7 @@ pubDate: "2025-08-06"
 category: "Activities"
 tags: ["gym", "crossfit", "fitness"]
 readingTime: "9 min read"
-image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1546920120-d60663fd4965?w=1200&h=675&fit=crop&q=80"
 ---
 
 One of the best things about spending extended time in Bali is that you don't have to sacrifice your fitness routine. In fact, you might improve it. The island — particularly the Canggu and Seminyak corridor — has developed a serious fitness infrastructure that rivals many Western cities. World-class CrossFit boxes, fully equipped bodybuilding gyms, outdoor functional training spaces, and everything in between.

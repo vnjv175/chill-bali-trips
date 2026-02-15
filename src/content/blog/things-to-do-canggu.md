@@ -5,7 +5,7 @@ pubDate: "2025-09-01"
 category: "Location Guides"
 tags: ["canggu", "things to do", "surf", "digital nomad"]
 readingTime: "11 min read"
-image: "https://images.unsplash.com/photo-1654137065487-cce388f2c58f?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1654131060497-db2db6ea6193?w=1200&h=675&fit=crop&q=80"
 ---
 
 Canggu went from a sleepy surf village to Bali's most talked-about neighborhood in under a decade. What used to be nothing but rice paddies and a handful of surf shacks now sits alongside trendy cafes, coworking spaces, beach clubs, and some of the best restaurants on the island. But here is the thing most guides won't tell you: Canggu hasn't lost its soul. You just need to know where to look.

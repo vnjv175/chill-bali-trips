@@ -5,7 +5,7 @@ pubDate: "2025-06-27"
 category: "Activities"
 tags: ["bali swing", "ubud", "instagram"]
 readingTime: "12 min read"
-image: "https://images.unsplash.com/photo-1576475706812-822620fc23ba?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1711241707155-ba44d6dfb630?w=1200&h=675&fit=crop&q=80"
 ---
 
 You have seen the photo. A person in a flowing dress, arms spread wide, swinging above a sea of jungle canopy with palm trees and mist in the background. It is one of the most recognizable images in modern travel, and it was almost certainly taken at a Bali swing park somewhere near [Ubud](/areas/ubud/).

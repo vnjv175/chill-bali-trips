@@ -5,7 +5,7 @@ pubDate: "2025-07-15"
 category: "Activities"
 tags: ["coffee", "luwak", "plantation tours"]
 readingTime: "13 min read"
-image: "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1624935920936-f09b9803faf3?w=1200&h=675&fit=crop&q=80"
 ---
 
 Bali grows some of the most interesting coffee in the world. The volcanic soil, tropical climate, and altitude of the island's central highlands create ideal growing conditions for both Arabica and Robusta beans. Add in a deeply rooted coffee culture — Balinese people have been growing and drinking coffee for over a century — and you have a genuinely compelling reason to visit a plantation.

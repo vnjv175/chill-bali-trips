@@ -5,7 +5,7 @@ pubDate: "2026-01-01"
 category: "Audience Guides"
 tags: ["backpacker", "budget", "cheap travel"]
 readingTime: "9 min read"
-image: "https://images.unsplash.com/photo-1527591319810-7a2a4e878e84?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://plus.unsplash.com/premium_photo-1682091942392-bc2842010e75?w=1200&h=675&fit=crop&q=80"
 ---
 
 Bali has a reputation as a cheap destination, but that reputation is increasingly outdated — at least in the tourist bubbles. A smoothie bowl in Canggu costs $8. A boutique hotel in Seminyak runs $80/night. A cocktail at a beach club is $15. If you only visit the places that show up on Instagram, Bali can be surprisingly expensive.

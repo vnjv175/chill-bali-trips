@@ -5,7 +5,7 @@ pubDate: "2025-10-06"
 category: "Practical Guides"
 tags: ["visa", "immigration", "travel documents"]
 readingTime: "8 min read"
-image: "https://plus.unsplash.com/premium_photo-1661878915254-f3163e91d870?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1724568834522-81eb8e5c048c?w=1200&h=675&fit=crop&q=80"
 ---
 
 Indonesia's visa system has changed significantly in recent years, and the information online ranges from outdated to outright wrong. This guide covers exactly what you need to know about entering Bali in 2026 — the visa types available, who qualifies for what, current costs, and how extensions work.

@@ -5,7 +5,7 @@ pubDate: "2025-10-23"
 category: "Practical Guides"
 tags: ["restaurants", "canggu", "food", "dining"]
 readingTime: "9 min read"
-image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1554689021-c9e70753d301?w=1200&h=675&fit=crop&q=80"
 ---
 
 Canggu has undergone a culinary transformation over the past few years. What was once a quiet stretch of rice paddies and surf breaks between [Seminyak](/areas/seminyak/) and Tanah Lot has become one of Bali's most dynamic food neighborhoods — a sprawling, slightly chaotic mix of surf shacks, specialty coffee roasters, Instagram-famous brunch spots, authentic warungs, and increasingly ambitious restaurants.

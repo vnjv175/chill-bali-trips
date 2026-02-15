@@ -5,7 +5,7 @@ pubDate: "2025-07-06"
 category: "Activities"
 tags: ["mount batur", "hiking", "sunrise trek"]
 readingTime: "14 min read"
-image: "https://images.unsplash.com/photo-1604314435281-8ce274f1597c?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1712078953326-346a472bddb0?w=1200&h=675&fit=crop&q=80"
 ---
 
 At 2 AM, your alarm goes off in the pitch dark. By 3:30 AM, you are standing at the base of an active volcano with a headlamp strapped to your head, about to hike upward for two hours through loose volcanic rock. At 5:45 AM, you are sitting on the crater rim watching the sun rise over Mount Agung, Lake Batur, and the clouds below you, eating breakfast cooked by volcanic steam.

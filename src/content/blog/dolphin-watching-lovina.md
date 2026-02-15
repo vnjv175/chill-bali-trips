@@ -5,7 +5,7 @@ pubDate: "2025-07-10"
 category: "Activities"
 tags: ["dolphins", "lovina", "north bali"]
 readingTime: "10 min read"
-image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1721029210778-30c558ee58ab?w=1200&h=675&fit=crop&q=80"
 ---
 
 Before the sun rises over North Bali, dozens of narrow wooden outrigger boats launch from the black sand beaches of [Lovina](/areas/lovina/) and motor out into the calm Bali Sea. Their mission: to find the pods of wild spinner dolphins that live in these waters year-round.

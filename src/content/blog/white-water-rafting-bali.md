@@ -5,7 +5,7 @@ pubDate: "2025-07-02"
 category: "Activities"
 tags: ["rafting", "adventure", "ubud"]
 readingTime: "13 min read"
-image: "https://images.unsplash.com/photo-1504656738986-9387b6a8acc9?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://plus.unsplash.com/premium_photo-1667150027764-9133c6c2fc82?w=1200&h=675&fit=crop&q=80"
 ---
 
 Bali has two rivers worth rafting, and they could not be more different. The Ayung River near [Ubud](/areas/ubud/) is the scenic, accessible option — gentle rapids through a stunning river gorge with carved rock faces and waterfalls. The Telaga Waja in East Bali is the adrenaline option — faster water, bigger drops, and a genuine sense of adventure.

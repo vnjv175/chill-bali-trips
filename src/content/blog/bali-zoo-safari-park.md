@@ -5,7 +5,7 @@ pubDate: "2025-07-28"
 category: "Activities"
 tags: ["zoo", "safari", "family activities"]
 readingTime: "9 min read"
-image: "https://images.unsplash.com/photo-1529247833802-700f53170380?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1652451160926-6d0f2bb16cfe?w=1200&h=675&fit=crop&q=80"
 ---
 
 Bali has two major wildlife parks that offer very different experiences: the intimate Bali Zoo in Gianyar and the sprawling Bali Safari & Marine Park in Gianyar's eastern reaches. Both are well-run, family-friendly attractions that go beyond the typical zoo experience with interactive animal encounters, cultural shows, and tropical garden settings.

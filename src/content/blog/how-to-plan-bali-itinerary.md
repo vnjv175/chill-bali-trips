@@ -5,7 +5,7 @@ pubDate: "2026-02-10"
 category: "Comparisons"
 tags: ["itinerary", "planning", "trip planning"]
 readingTime: "9 min read"
-image: "https://images.unsplash.com/photo-1604999333679-b86d54738315?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://plus.unsplash.com/premium_photo-1683888725049-3577fca835ea?w=1200&h=675&fit=crop&q=80"
 ---
 
 Planning a Bali itinerary can feel overwhelming. The island has dozens of distinct areas, hundreds of activities, and an almost unlimited number of ways to spend your time. Most travelers either over-plan (cramming too much in) or under-plan (winging it and missing the best experiences). This guide walks you through the process step by step so you end up with an itinerary that is realistic, balanced, and built around what you actually care about.

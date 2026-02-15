@@ -5,7 +5,7 @@ pubDate: "2025-08-27"
 category: "Location Guides"
 tags: ["seminyak", "things to do", "nightlife", "beach"]
 readingTime: "12 min read"
-image: "https://images.unsplash.com/photo-1720728659932-0233fb9b6616?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1636619300469-dce84c11e25d?w=1200&h=675&fit=crop&q=80"
 ---
 
 Seminyak is Bali's most refined coastal neighborhood — a stretch of beach and parallel streets where boutique hotels, designer shops, acclaimed restaurants, and world-famous beach clubs create an atmosphere that's more cosmopolitan than tropical backpacker and more relaxed than full-blown luxury resort.

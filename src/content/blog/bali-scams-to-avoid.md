@@ -5,7 +5,7 @@ pubDate: "2025-10-01"
 category: "Practical Guides"
 tags: ["scams", "safety", "tourist traps"]
 readingTime: "10 min read"
-image: "https://images.unsplash.com/photo-1575073620564-c8cd86a518fc?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1657970757741-c95fdb7da4d9?w=1200&h=675&fit=crop&q=80"
 ---
 
 Bali is one of the safest destinations in Southeast Asia, and the overwhelming majority of Balinese people are genuinely kind, honest, and welcoming. That said, the island's massive tourism industry attracts a small minority of opportunists who target visitors unfamiliar with local norms and pricing. Knowing what to watch for eliminates most of the risk.

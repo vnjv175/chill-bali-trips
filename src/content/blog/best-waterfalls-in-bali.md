@@ -5,7 +5,7 @@ pubDate: "2025-06-18"
 category: "Activities"
 tags: ["waterfalls", "nature", "hiking"]
 readingTime: "16 min read"
-image: "https://plus.unsplash.com/premium_photo-1697730247123-0ce641e72388?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1691422740547-2701175fc794?w=1200&h=675&fit=crop&q=80"
 ---
 
 Bali has more waterfalls than any island this size has a right to. They cascade out of jungle-covered cliffs, hide behind cave walls, and thunder into deep turquoise pools that beg you to jump in. Some are easy enough for your grandmother to visit. Others require scrambling down muddy ravines while holding onto tree roots.

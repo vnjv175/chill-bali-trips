@@ -5,7 +5,7 @@ pubDate: "2025-09-14"
 category: "Location Guides"
 tags: ["lovina", "north bali", "dolphins"]
 readingTime: "10 min read"
-image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://plus.unsplash.com/premium_photo-1667149988441-91d5380f3f6a?w=1200&h=675&fit=crop&q=80"
 ---
 
 Most visitors to Bali never make it north. They land at the airport, shuttle to [Seminyak](/areas/seminyak/) or [Canggu](/areas/canggu/), maybe spend a few days in Ubud, and fly home thinking they've seen the island. They haven't. The real Bali — the Bali that existed before the surf schools and beach clubs — is alive and thriving along the north coast, and Lovina is its gateway.

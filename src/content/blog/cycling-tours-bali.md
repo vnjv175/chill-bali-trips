@@ -5,7 +5,7 @@ pubDate: "2025-08-01"
 category: "Activities"
 tags: ["cycling", "bike tours", "ubud"]
 readingTime: "9 min read"
-image: "https://images.unsplash.com/photo-1624352639222-99c4461975ec?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://plus.unsplash.com/premium_photo-1682091719534-00aff71fd130?w=1200&h=675&fit=crop&q=80"
 ---
 
 Cycling in Bali is one of those activities that consistently surprises visitors. Most people don't come to the island planning to ride a bike, but those who do rate it among their top experiences. There's something about rolling through rice terraces, past stone temples, and through quiet villages at cycling speed that reveals a side of Bali you simply can't see from a car window or a scooter seat.

@@ -5,7 +5,7 @@ pubDate: "2025-12-24"
 category: "Audience Guides"
 tags: ["food", "restaurants", "street food", "dining"]
 readingTime: "10 min read"
-image: "https://images.unsplash.com/photo-1616669944447-d65b41a222bd?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1546661869-9fcc17ef46aa?w=1200&h=675&fit=crop&q=80"
 ---
 
 Bali's food scene is one of the most exciting in Southeast Asia, and it operates on two completely separate tracks. On one side, there's a street food and warung culture that's been perfected over centuries — smoky, spicy, impossibly cheap, and deeply satisfying. On the other, a modern restaurant scene has emerged that rivals Bangkok and Singapore, with chefs reimagining Indonesian cuisine through contemporary techniques and attracting international attention.

@@ -5,7 +5,7 @@ pubDate: "2025-12-06"
 category: "Audience Guides"
 tags: ["digital nomad", "coworking", "remote work"]
 readingTime: "10 min read"
-image: "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1599458396390-2373ea0b5f3e?w=1200&h=675&fit=crop&q=80"
 ---
 
 Bali has been a digital nomad hub for over a decade, and for good reason. Where else can you take a morning surf, work from a jungle-view coworking space, join a sunset yoga class, and have dinner with founders, freelancers, and creatives from forty different countries — all in a single day, all for less than $50?

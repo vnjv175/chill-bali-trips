@@ -5,7 +5,7 @@ pubDate: "2025-06-10"
 category: "Ultimate Guides"
 tags: ["bali guide", "first time bali", "travel tips"]
 readingTime: "20 min read"
-image: "https://images.unsplash.com/photo-1570780728980-63f5a30a1393?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://plus.unsplash.com/premium_photo-1667667720428-083d16150d0f?w=1200&h=675&fit=crop&q=80"
 ---
 
 Bali is one of those rare places that lives up to the hype. The rice terraces really are that green, the temples really are that atmospheric, and the people really are that warm. But showing up without a basic understanding of how things work here can lead to unnecessary stress, overpaying, or accidentally offending someone.

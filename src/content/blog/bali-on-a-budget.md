@@ -5,7 +5,7 @@ pubDate: "2025-09-27"
 category: "Practical Guides"
 tags: ["budget", "cost", "cheap bali"]
 readingTime: "9 min read"
-image: "https://images.unsplash.com/photo-1506127032361-59d904234169?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1578726707335-a01c2679b263?w=1200&h=675&fit=crop&q=80"
 ---
 
 Bali can cost you $25 a day or $500 a day, and both versions of the trip can be excellent. The island has an unusually wide spending spectrum — world-class experiences are available at every price point, and the gap between "budget" and "expensive" is more about comfort and convenience than quality.

@@ -5,7 +5,7 @@ pubDate: "2025-09-18"
 category: "Location Guides"
 tags: ["east bali", "sidemen", "amed", "off beaten path"]
 readingTime: "10 min read"
-image: "https://images.unsplash.com/photo-1589443152682-5b24e1abd34f?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1710812030602-4a3662eb0135?w=1200&h=675&fit=crop&q=80"
 ---
 
 East Bali is where the island shows its truest face. While the south coast builds another beach club and [Ubud](/areas/ubud/) absorbs another wave of yoga retreats, the eastern regions remain deeply traditional, spectacularly beautiful, and refreshingly quiet. Mount Agung, Bali's highest and most sacred volcano, dominates the landscape here, and everything — the agriculture, the temples, the daily rhythms of village life — orients around it.

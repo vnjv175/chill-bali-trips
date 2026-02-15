@@ -5,7 +5,7 @@ pubDate: "2025-10-19"
 category: "Practical Guides"
 tags: ["restaurants", "ubud", "food", "dining"]
 readingTime: "9 min read"
-image: "https://images.unsplash.com/photo-1513516038331-edd53912f959?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1698264855824-95385e9d552a?w=1200&h=675&fit=crop&q=80"
 ---
 
 Ubud's dining scene is unlike anywhere else in Bali. While the southern beach towns chase international trends and flashy presentation, Ubud leans into something more grounded — organic produce from local farms, ancient Balinese recipes prepared with genuine care, and a wellness-oriented food culture that goes beyond trendy smoothie bowls.

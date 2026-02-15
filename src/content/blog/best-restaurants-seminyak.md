@@ -5,7 +5,7 @@ pubDate: "2025-10-15"
 category: "Practical Guides"
 tags: ["restaurants", "seminyak", "food", "dining"]
 readingTime: "9 min read"
-image: "https://images.unsplash.com/photo-1616671285410-2a671a9a433d?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1559628233-eb1b1a45564b?w=1200&h=675&fit=crop&q=80"
 ---
 
 Seminyak is where Bali's dining scene reaches its peak. This stretch of southwest coast packs more culinary talent per square kilometer than anywhere else on the island — Michelin-trained chefs working alongside warung grandmothers, Japanese omakase counters next to smoky roadside satay grills, and everything in between.

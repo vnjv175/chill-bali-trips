@@ -5,7 +5,7 @@ pubDate: "2025-09-05"
 category: "Location Guides"
 tags: ["uluwatu", "things to do", "surf", "temples"]
 readingTime: "11 min read"
-image: "https://images.unsplash.com/photo-1523810804307-760585ed63cd?w=1200&h=675&fit=crop&auto=format&q=80"
+image: "https://images.unsplash.com/photo-1676878912863-2849fe9fb18c?w=1200&h=675&fit=crop&q=80"
 ---
 
 Uluwatu occupies the southern tip of Bali's Bukit Peninsula, and it feels like a different island entirely. While the rest of southern Bali buzzes with traffic and development, Uluwatu is defined by towering limestone cliffs, hidden cove beaches accessible only by steep staircases, ancient temples perched on cliff edges, and some of the best surf breaks on the planet.
