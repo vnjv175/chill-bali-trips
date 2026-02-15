@@ -53,9 +53,7 @@ const relatedActivities = ACTIVITIES.filter(a => a.slug !== activity.slug).slice
       <div class="grid grid-cols-1 lg:grid-cols-3 gap-10">
         <div class="lg:col-span-2">
           <div class="aspect-video bg-ocean-800 rounded-2xl overflow-hidden mb-8">
-            <div class="w-full h-full bg-gradient-to-br from-gold-500/20 to-sunset-500/10 flex items-center justify-center text-7xl">
-              {activity.slug.includes('atv') ? '🏍️' : activity.slug.includes('swing') ? '🎋' : activity.slug.includes('raft') ? '🚣' : activity.slug.includes('batur') ? '🌋' : activity.slug.includes('water') ? '💧' : activity.slug.includes('dolphin') ? '🐬' : activity.slug.includes('coffee') ? '☕' : activity.slug.includes('temple') ? '🏛️' : activity.slug.includes('snorkel') ? '🤿' : activity.slug.includes('cycling') ? '🚲' : activity.slug.includes('surf') ? '🏄' : activity.slug.includes('spa') ? '💆' : activity.slug.includes('cook') ? '👨‍🍳' : activity.slug.includes('paint') ? '🎯' : activity.slug.includes('fish') ? '🎣' : activity.slug.includes('nusa') ? '🏝️' : '🚗'}
-            </div>
+            <img src={activity.image} alt={activity.title} class="w-full h-full object-cover" loading="eager" />
           </div>
 
           <h1 class="text-3xl md:text-4xl font-bold text-white mb-4">{activity.title}</h1>

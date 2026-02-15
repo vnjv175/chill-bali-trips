@@ -18,11 +18,7 @@ import { AREAS } from '../../utils/siteData';
         {AREAS.map(area => (
           <a href={`/areas/${area.slug}/`} class="card-hover group">
             <div class="aspect-[2/1] bg-ocean-800 overflow-hidden">
-              <div class="w-full h-full bg-gradient-to-br from-palm-500/20 to-ocean-700/30 flex items-center justify-center">
-                <span class="text-6xl opacity-50 group-hover:opacity-70 group-hover:scale-110 transition-all duration-500">
-                  {area.slug === 'seminyak' ? '🏖️' : area.slug === 'ubud' ? '🌿' : area.slug === 'canggu' ? '🏄' : area.slug === 'uluwatu' ? '🏛️' : area.slug === 'pererenan' ? '🌾' : '🐬'}
-                </span>
-              </div>
+              <img src={area.image} alt={area.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
             </div>
             <div class="p-6">
               <div class="flex items-center gap-3 mb-3">

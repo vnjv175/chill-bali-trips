@@ -23,7 +23,7 @@ export const ACTIVITIES = [
     duration: '2-3 hours',
     difficulty: 'Easy to Moderate',
     location: 'Ubud / Tabanan',
-    image: '/images/activities/atv.jpg',
+    image: 'https://images.unsplash.com/photo-1534293506745-bdd75da882ce?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Rice terrace trails', 'Jungle river crossings', 'Volcano views', 'Professional guides'],
   },
   {
@@ -35,7 +35,7 @@ export const ACTIVITIES = [
     duration: '2-4 hours',
     difficulty: 'Easy',
     location: 'Ubud',
-    image: '/images/activities/swing.jpg',
+    image: 'https://images.unsplash.com/photo-1576475706812-822620fc23ba?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Multiple swing heights', 'Nest photo spots', 'Jungle valley views', 'Instagram-worthy'],
   },
   {
@@ -47,7 +47,7 @@ export const ACTIVITIES = [
     duration: '3-4 hours',
     difficulty: 'Moderate',
     location: 'Ubud / Karangasem',
-    image: '/images/activities/rafting.jpg',
+    image: 'https://images.unsplash.com/photo-1504656738986-9387b6a8acc9?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Class II-III rapids', 'Gorge scenery', 'Waterfall views', 'Lunch included'],
   },
   {
@@ -59,7 +59,7 @@ export const ACTIVITIES = [
     duration: '6-8 hours',
     difficulty: 'Moderate to Hard',
     location: 'Kintamani',
-    image: '/images/activities/mount-batur.jpg',
+    image: 'https://images.unsplash.com/photo-1604314435281-8ce274f1597c?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Active volcano', 'Sunrise panorama', 'Caldera lake views', 'Breakfast at summit'],
   },
   {
@@ -71,7 +71,7 @@ export const ACTIVITIES = [
     duration: '4-8 hours',
     difficulty: 'Easy to Moderate',
     location: 'Various',
-    image: '/images/activities/waterfall.jpg',
+    image: 'https://plus.unsplash.com/premium_photo-1697730247123-0ce641e72388?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Multiple waterfalls', 'Hidden gems', 'Swimming spots', 'Photo opportunities'],
   },
   {
@@ -83,7 +83,7 @@ export const ACTIVITIES = [
     duration: '2-3 hours',
     difficulty: 'Easy',
     location: 'Lovina',
-    image: '/images/activities/dolphins.jpg',
+    image: 'https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Wild dolphins', 'Sunrise views', 'Traditional boat', 'North Bali coast'],
   },
   {
@@ -95,7 +95,7 @@ export const ACTIVITIES = [
     duration: '2-3 hours',
     difficulty: 'Easy',
     location: 'Ubud / Kintamani',
-    image: '/images/activities/coffee.jpg',
+    image: 'https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Luwak coffee tasting', 'Plantation walk', 'Exotic blends', 'Volcano backdrop'],
   },
   {
@@ -107,7 +107,7 @@ export const ACTIVITIES = [
     duration: '4-8 hours',
     difficulty: 'Easy',
     location: 'Various',
-    image: '/images/activities/temple.jpg',
+    image: 'https://images.unsplash.com/photo-1604999333679-b86d54738315?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Uluwatu sunset', 'Tirta Empul purification', 'Tanah Lot', 'Besakih Mother Temple'],
   },
   {
@@ -119,7 +119,7 @@ export const ACTIVITIES = [
     duration: '4-8 hours',
     difficulty: 'Easy to Moderate',
     location: 'Nusa Penida / Amed / Tulamben',
-    image: '/images/activities/snorkeling.jpg',
+    image: 'https://images.unsplash.com/photo-1566987827971-f2c40e748a54?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Manta rays', 'Coral reefs', 'Shipwreck dive', 'Crystal clear water'],
   },
   {
@@ -131,7 +131,7 @@ export const ACTIVITIES = [
     duration: '3-5 hours',
     difficulty: 'Easy to Moderate',
     location: 'Ubud / Kintamani',
-    image: '/images/activities/cycling.jpg',
+    image: 'https://images.unsplash.com/photo-1624352639222-99c4461975ec?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Downhill routes', 'Village visits', 'Rice terraces', 'Local snacks'],
   },
   {
@@ -143,7 +143,7 @@ export const ACTIVITIES = [
     duration: '2-3 hours',
     difficulty: 'All levels',
     location: 'Seminyak / Canggu / Uluwatu',
-    image: '/images/activities/surfing.jpg',
+    image: 'https://images.unsplash.com/photo-1654137065487-cce388f2c58f?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['All skill levels', 'Board rental', 'Certified instructors', 'Warm tropical water'],
   },
   {
@@ -155,7 +155,7 @@ export const ACTIVITIES = [
     duration: '1-4 hours',
     difficulty: 'Easy',
     location: 'Various',
-    image: '/images/activities/spa.jpg',
+    image: 'https://images.unsplash.com/flagged/photo-1564767609342-620cb19b2357?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Balinese massage', 'Flower baths', 'Yoga sessions', 'Wellness retreats'],
   },
   {
@@ -167,7 +167,7 @@ export const ACTIVITIES = [
     duration: '4-5 hours',
     difficulty: 'Easy',
     location: 'Ubud / Seminyak',
-    image: '/images/activities/cooking.jpg',
+    image: 'https://images.unsplash.com/photo-1616669944447-d65b41a222bd?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Market visit', 'Hands-on cooking', '5+ dishes', 'Recipe cards'],
   },
   {
@@ -179,7 +179,7 @@ export const ACTIVITIES = [
     duration: '2-3 hours',
     difficulty: 'Moderate',
     location: 'Kuta / Ubud',
-    image: '/images/activities/paintball.jpg',
+    image: 'https://images.unsplash.com/photo-1650995696988-c269f4016475?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Professional gear', 'Multiple scenarios', 'Group packages', 'Jungle course'],
   },
   {
@@ -191,7 +191,7 @@ export const ACTIVITIES = [
     duration: '4-8 hours',
     difficulty: 'Easy',
     location: 'Sanur / Jimbaran',
-    image: '/images/activities/fishing.jpg',
+    image: 'https://images.unsplash.com/photo-1726250947679-3d89963934d8?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Deep sea fishing', 'Full equipment', 'Experienced crew', 'Catch and cook option'],
   },
   {
@@ -203,7 +203,7 @@ export const ACTIVITIES = [
     duration: 'Full day',
     difficulty: 'Moderate',
     location: 'Nusa Penida',
-    image: '/images/activities/nusa-penida.jpg',
+    image: 'https://images.unsplash.com/photo-1566987827971-f2c40e748a54?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Kelingking Beach', 'Angel\'s Billabong', 'Crystal Bay', 'Broken Beach'],
   },
   {
@@ -215,7 +215,7 @@ export const ACTIVITIES = [
     duration: '8-12 hours',
     difficulty: 'Easy',
     location: 'Island-wide',
-    image: '/images/activities/private-driver.jpg',
+    image: 'https://images.unsplash.com/photo-1755134840127-bdeb3150ede7?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Custom itinerary', 'Air-conditioned vehicle', 'English-speaking', 'Flexible schedule'],
   },
 ];
@@ -226,7 +226,7 @@ export const AREAS = [
     title: 'Seminyak',
     description: 'Bali\'s upscale beach district — luxury resorts, world-class dining, vibrant nightlife, and stylish beach clubs.',
     vibe: 'Luxury & Nightlife',
-    image: '/images/areas/seminyak.jpg',
+    image: 'https://images.unsplash.com/photo-1720728659932-0233fb9b6616?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Beach clubs', 'Fine dining', 'Designer boutiques', 'Sunset bars'],
   },
   {
@@ -234,7 +234,7 @@ export const AREAS = [
     title: 'Ubud',
     description: 'The cultural heart of Bali — rice terraces, ancient temples, art galleries, yoga retreats, and the monkey forest.',
     vibe: 'Culture & Nature',
-    image: '/images/areas/ubud.jpg',
+    image: 'https://images.unsplash.com/photo-1557093793-d149a38a1be8?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Rice terraces', 'Monkey Forest', 'Art galleries', 'Yoga & wellness'],
   },
   {
@@ -242,7 +242,7 @@ export const AREAS = [
     title: 'Canggu',
     description: 'Bali\'s booming digital nomad hub — surf breaks, hip cafes, coworking spaces, and a laid-back creative scene.',
     vibe: 'Surf & Digital Nomad',
-    image: '/images/areas/canggu.jpg',
+    image: 'https://images.unsplash.com/photo-1654137065504-0e5d25238fa5?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Surf breaks', 'Hip cafes', 'Coworking', 'Rice field walks'],
   },
   {
@@ -250,7 +250,7 @@ export const AREAS = [
     title: 'Uluwatu',
     description: 'Dramatic clifftop temples, world-class surf, hidden beaches, and Bali\'s most stunning sunset views.',
     vibe: 'Cliffs & Surf',
-    image: '/images/areas/uluwatu.jpg',
+    image: 'https://images.unsplash.com/photo-1523810804307-760585ed63cd?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Cliff temples', 'Secret beaches', 'World-class surf', 'Kecak fire dance'],
   },
   {
@@ -258,7 +258,7 @@ export const AREAS = [
     title: 'Pererenan',
     description: 'Bali\'s hidden gem — peaceful rice fields, uncrowded beaches, authentic village life, and a growing cafe scene.',
     vibe: 'Hidden Gem',
-    image: '/images/areas/pererenan.jpg',
+    image: 'https://images.unsplash.com/photo-1589443152682-5b24e1abd34f?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Quiet beaches', 'Rice paddies', 'Local villages', 'Authentic Bali'],
   },
   {
@@ -266,7 +266,7 @@ export const AREAS = [
     title: 'Lovina',
     description: 'North Bali\'s tranquil coast — dolphin watching, volcanic hot springs, waterfalls, and a peaceful escape from the south.',
     vibe: 'Peaceful & Natural',
-    image: '/images/areas/lovina.jpg',
+    image: 'https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Dolphin watching', 'Hot springs', 'Waterfalls', 'Black sand beaches'],
   },
 ];
