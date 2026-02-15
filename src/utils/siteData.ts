@@ -23,7 +23,7 @@ export const ACTIVITIES = [
     duration: '2-3 hours',
     difficulty: 'Easy to Moderate',
     location: 'Ubud / Tabanan',
-    image: 'https://plus.unsplash.com/premium_photo-1664300373397-6d760d76a7bf?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/flagged/photo-1665465874084-b88e35b1eb24?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Rice terrace trails', 'Jungle river crossings', 'Volcano views', 'Professional guides'],
   },
   {
@@ -155,7 +155,7 @@ export const ACTIVITIES = [
     duration: '1-4 hours',
     difficulty: 'Easy',
     location: 'Various',
-    image: 'https://plus.unsplash.com/premium_photo-1678478557008-a4a402e684f0?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1694967456324-bf77c9975132?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Balinese massage', 'Flower baths', 'Yoga sessions', 'Wellness retreats'],
   },
   {
@@ -179,7 +179,7 @@ export const ACTIVITIES = [
     duration: '2-3 hours',
     difficulty: 'Moderate',
     location: 'Kuta / Ubud',
-    image: 'https://images.unsplash.com/photo-1619374360904-46cb5fec1236?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1760427144206-27d38562044f?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Professional gear', 'Multiple scenarios', 'Group packages', 'Jungle course'],
   },
   {
@@ -208,15 +208,27 @@ export const ACTIVITIES = [
   },
   {
     slug: 'private-driver',
-    title: 'Private Driver & Custom Tours',
+    title: 'Private Driver',
     shortTitle: 'Private Driver',
-    description: 'Explore Bali at your own pace with a dedicated private driver. Fully customizable itineraries, comfortable vehicles, and local insights.',
+    description: 'Get around Bali safely and comfortably with your own dedicated driver. Air-conditioned vehicle, English-speaking, and available all day.',
     price: 'From $40 / Rp 640K per day',
     duration: '8-12 hours',
     difficulty: 'Easy',
     location: 'Island-wide',
-    image: 'https://plus.unsplash.com/premium_photo-1730035378679-0df681b2ace5?w=800&h=600&fit=crop&auto=format&q=80',
-    highlights: ['Custom itinerary', 'Air-conditioned vehicle', 'English-speaking', 'Flexible schedule'],
+    image: 'https://images.unsplash.com/photo-1713586861139-2751d53bb0c2?w=800&h=600&fit=crop&auto=format&q=80',
+    highlights: ['Air-conditioned vehicle', 'English-speaking driver', 'Hotel pickup & drop-off', 'Flexible schedule'],
+  },
+  {
+    slug: 'custom-tours',
+    title: 'Custom Tours',
+    shortTitle: 'Custom Tours',
+    description: 'Let Gede design a personalized Bali itinerary around your interests. Visit temples, rice terraces, hidden gems, and local villages — all at your own pace.',
+    price: 'From $50 / Rp 800K per day',
+    duration: 'Full day',
+    difficulty: 'Easy',
+    location: 'Island-wide',
+    image: 'https://plus.unsplash.com/premium_photo-1682091957790-06680b431ecd?w=800&h=600&fit=crop&auto=format&q=80',
+    highlights: ['Personalized itinerary', 'Local expert guide', 'Hidden gems & culture', 'All-inclusive pricing'],
   },
 ];
 
