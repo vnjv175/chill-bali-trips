@@ -226,7 +226,7 @@ export const AREAS = [
     title: 'Seminyak',
     description: 'Bali\'s upscale beach district — luxury resorts, world-class dining, vibrant nightlife, and stylish beach clubs.',
     vibe: 'Luxury & Nightlife',
-    image: 'https://plus.unsplash.com/premium_photo-1712067481508-4bec248b7db2?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1571984405176-5958bd9ac31d?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Beach clubs', 'Fine dining', 'Designer boutiques', 'Sunset bars'],
   },
   {
@@ -234,7 +234,7 @@ export const AREAS = [
     title: 'Ubud',
     description: 'The cultural heart of Bali — rice terraces, ancient temples, art galleries, yoga retreats, and the monkey forest.',
     vibe: 'Culture & Nature',
-    image: 'https://plus.unsplash.com/premium_photo-1673151333808-ba1ac4f026cd?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1694967456315-a8ff63eaba47?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Rice terraces', 'Monkey Forest', 'Art galleries', 'Yoga & wellness'],
   },
   {
@@ -242,7 +242,7 @@ export const AREAS = [
     title: 'Canggu',
     description: 'Bali\'s booming digital nomad hub — surf breaks, hip cafes, coworking spaces, and a laid-back creative scene.',
     vibe: 'Surf & Digital Nomad',
-    image: 'https://images.unsplash.com/photo-1578724859357-7cbb8670ccdc?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1670241678108-be2862160d77?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Surf breaks', 'Hip cafes', 'Coworking', 'Rice field walks'],
   },
   {
@@ -250,7 +250,7 @@ export const AREAS = [
     title: 'Uluwatu',
     description: 'Dramatic clifftop temples, world-class surf, hidden beaches, and Bali\'s most stunning sunset views.',
     vibe: 'Cliffs & Surf',
-    image: 'https://plus.unsplash.com/premium_photo-1678303396234-4180231353df?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1601468846763-3d29335ccaa5?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Cliff temples', 'Secret beaches', 'World-class surf', 'Kecak fire dance'],
   },
   {
@@ -258,7 +258,7 @@ export const AREAS = [
     title: 'Pererenan',
     description: 'Bali\'s hidden gem — peaceful rice fields, uncrowded beaches, authentic village life, and a growing cafe scene.',
     vibe: 'Hidden Gem',
-    image: 'https://plus.unsplash.com/premium_photo-1697730171204-d82cb64d2f0c?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://plus.unsplash.com/premium_photo-1697730272191-5d6e3a76a61d?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Quiet beaches', 'Rice paddies', 'Local villages', 'Authentic Bali'],
   },
   {
@@ -266,7 +266,7 @@ export const AREAS = [
     title: 'Lovina',
     description: 'North Bali\'s tranquil coast — dolphin watching, volcanic hot springs, waterfalls, and a peaceful escape from the south.',
     vibe: 'Peaceful & Natural',
-    image: 'https://plus.unsplash.com/premium_photo-1712067481538-56539176263c?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1677138731748-50543a24054f?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Dolphin watching', 'Hot springs', 'Waterfalls', 'Black sand beaches'],
   },
 ];
