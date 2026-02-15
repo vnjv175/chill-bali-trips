@@ -179,7 +179,7 @@ export const ACTIVITIES = [
     duration: '2-3 hours',
     difficulty: 'Moderate',
     location: 'Kuta / Ubud',
-    image: 'https://images.unsplash.com/photo-1760427144206-27d38562044f?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1759872138838-45bd5c07ddc6?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Professional gear', 'Multiple scenarios', 'Group packages', 'Jungle course'],
   },
   {
@@ -215,7 +215,7 @@ export const ACTIVITIES = [
     duration: '8-12 hours',
     difficulty: 'Easy',
     location: 'Island-wide',
-    image: 'https://images.unsplash.com/photo-1713586861139-2751d53bb0c2?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1749453841570-c6caeccd9ab7?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Air-conditioned vehicle', 'English-speaking driver', 'Hotel pickup & drop-off', 'Flexible schedule'],
   },
   {
