@@ -137,9 +137,7 @@ const schema = {
         {ACTIVITIES.slice(0, 8).map(activity => (
           <a href={`/activities/${activity.slug}/`} class="card-hover group">
             <div class="aspect-[4/3] bg-ocean-800 overflow-hidden">
-              <div class="w-full h-full bg-gradient-to-br from-gold-500/20 to-sunset-500/10 flex items-center justify-center text-4xl group-hover:scale-105 transition-transform duration-500">
-                {activity.slug.includes('atv') ? '🏍️' : activity.slug.includes('swing') ? '🎋' : activity.slug.includes('raft') ? '🚣' : activity.slug.includes('batur') ? '🌋' : activity.slug.includes('water') ? '💧' : activity.slug.includes('dolphin') ? '🐬' : activity.slug.includes('coffee') ? '☕' : '🏛️'}
-              </div>
+              <img src={activity.image} alt={activity.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
             </div>
             <div class="p-4">
               <h3 class="font-semibold text-white group-hover:text-gold-400 transition-colors mb-1">{activity.title}</h3>
@@ -172,12 +170,8 @@ const schema = {
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {AREAS.map(area => (
           <a href={`/areas/${area.slug}/`} class="card-hover group relative overflow-hidden">
-            <div class="aspect-[3/2] bg-ocean-800">
-              <div class="w-full h-full bg-gradient-to-br from-palm-500/20 to-ocean-700/30 flex items-center justify-center">
-                <span class="text-5xl opacity-50 group-hover:opacity-70 transition-opacity">
-                  {area.slug === 'seminyak' ? '🏖️' : area.slug === 'ubud' ? '🌿' : area.slug === 'canggu' ? '🏄' : area.slug === 'uluwatu' ? '🏛️' : area.slug === 'pererenan' ? '🌾' : '🐬'}
-                </span>
-              </div>
+            <div class="aspect-[3/2] bg-ocean-800 overflow-hidden">
+              <img src={area.image} alt={area.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
             </div>
             <div class="p-5">
               <div class="flex items-center justify-between mb-2">
