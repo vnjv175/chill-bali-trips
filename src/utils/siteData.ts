@@ -270,7 +270,7 @@ export const AREAS = [
     title: 'Pererenan',
     description: 'Bali\'s hidden gem — peaceful rice fields, uncrowded beaches, authentic village life, and a growing cafe scene.',
     vibe: 'Hidden Gem',
-    image: 'https://plus.unsplash.com/premium_photo-1697730272191-5d6e3a76a61d?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1546484475-7f7bd55792da?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Quiet beaches', 'Rice paddies', 'Local villages', 'Authentic Bali'],
   },
   {
@@ -278,7 +278,7 @@ export const AREAS = [
     title: 'Lovina',
     description: 'North Bali\'s tranquil coast — dolphin watching, volcanic hot springs, waterfalls, and a peaceful escape from the south.',
     vibe: 'Peaceful & Natural',
-    image: 'https://images.unsplash.com/photo-1605427113122-5ea67f237d3e?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1555845417-175c99c7b29b?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Dolphin watching', 'Hot springs', 'Waterfalls', 'Black sand beaches'],
   },
 ];
