@@ -238,7 +238,7 @@ export const AREAS = [
     title: 'Seminyak',
     description: 'Bali\'s upscale beach district — luxury resorts, world-class dining, vibrant nightlife, and stylish beach clubs.',
     vibe: 'Luxury & Nightlife',
-    image: 'https://images.unsplash.com/photo-1662950267280-0cdf5f7139b4?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1552272492-3053fbacbf4b?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Beach clubs', 'Fine dining', 'Designer boutiques', 'Sunset bars'],
   },
   {
@@ -254,7 +254,7 @@ export const AREAS = [
     title: 'Canggu',
     description: 'Bali\'s booming digital nomad hub — surf breaks, hip cafes, coworking spaces, and a laid-back creative scene.',
     vibe: 'Surf & Digital Nomad',
-    image: 'https://images.unsplash.com/photo-1722460228785-733ae3a0e8c8?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1743183500758-a8599b520ed1?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Surf breaks', 'Hip cafes', 'Coworking', 'Rice field walks'],
   },
   {
@@ -262,7 +262,7 @@ export const AREAS = [
     title: 'Uluwatu',
     description: 'Dramatic clifftop temples, world-class surf, hidden beaches, and Bali\'s most stunning sunset views.',
     vibe: 'Cliffs & Surf',
-    image: 'https://images.unsplash.com/photo-1703643507011-99b6b8533765?w=800&h=600&fit=crop&auto=format&q=80',
+    image: 'https://images.unsplash.com/photo-1544181093-cf07ebb33886?w=800&h=600&fit=crop&auto=format&q=80',
     highlights: ['Cliff temples', 'Secret beaches', 'World-class surf', 'Kecak fire dance'],
   },
   {
