@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Page Not Found — Chill Bali Trips" description="The page you're looking for doesn't exist. Let's get you back on track." noindex={true}>
+  <section class="section-padding pt-32">
+    <div class="container-custom max-w-4xl">
+      <div class="text-center">
+        <div class="w-32 h-32 bg-gold-500/10 rounded-full flex items-center justify-center mx-auto mb-6 text-6xl">🌴</div>
+        <h1 class="text-4xl md:text-5xl font-bold text-white mb-4">Page Not Found</h1>
+        <p class="text-gray-400 text-lg mb-8">Looks like you've wandered off the beaten path. Let's get you back to exploring Bali.</p>
+
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+          <a href="/" class="btn-primary">Back to Home</a>
+          <a href="/activities/" class="btn-secondary">Browse Activities</a>
+          <a href="/contact/" class="btn-secondary">Contact Us</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

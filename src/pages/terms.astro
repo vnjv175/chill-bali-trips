@@ -1,0 +1,94 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../utils/siteData';
+---
+
+<BaseLayout title="Terms of Service — Chill Bali Trips" description="Read the terms and conditions for using Chill Bali Trips booking and concierge services.">
+  <section class="section-padding pt-32">
+    <div class="container-custom max-w-4xl">
+      <div class="text-center mb-16">
+        <h1 class="text-4xl md:text-5xl font-bold text-white mb-4">Terms of Service</h1>
+        <p class="text-gray-400">Last updated: February 2026</p>
+      </div>
+
+      <div class="prose prose-lg prose-invert max-w-none">
+        <p>By using Chill Bali Trips' website and services, you agree to the following terms and conditions. Please read them carefully before booking any activities or services.</p>
+
+        <h2>Service Description</h2>
+        <p>Chill Bali Trips is a concierge and booking service based in Bali, Indonesia, operated by {SITE.operator}. We connect travelers with local activity providers, tour operators, drivers, and other service providers (collectively, "Activity Providers").</p>
+        <p><strong>Important:</strong> Chill Bali Trips acts as a facilitator and intermediary. We are not the direct provider of tours, activities, transportation, or accommodations. All activities are operated by independent third-party providers.</p>
+
+        <h2>Bookings & Pricing</h2>
+        <ul>
+          <li><strong>Pricing:</strong> All prices listed on our website are estimates and subject to change based on availability, season, group size, and provider rates. Final pricing will be confirmed via WhatsApp or email before booking.</li>
+          <li><strong>Currency:</strong> Prices are displayed in USD and Indonesian Rupiah (IDR). Exchange rates may vary.</li>
+          <li><strong>Payment:</strong> Payment terms, methods, and schedules will be communicated directly by {SITE.operator} via WhatsApp or email.</li>
+          <li><strong>Confirmation:</strong> Bookings are confirmed only after full payment is received and availability is verified with the Activity Provider.</li>
+        </ul>
+
+        <h2>Cancellations & Refunds</h2>
+        <p>Cancellation policies vary by activity and provider. Specific terms will be communicated at the time of booking. In general:</p>
+        <ul>
+          <li>Cancellations made 48+ hours before the activity may be eligible for a full or partial refund</li>
+          <li>Cancellations made within 48 hours may incur fees or forfeit the full amount</li>
+          <li>No-shows or last-minute cancellations are typically non-refundable</li>
+          <li>Weather-related cancellations are handled on a case-by-case basis in coordination with the Activity Provider</li>
+        </ul>
+        <p>To cancel or modify a booking, contact {SITE.operator} directly via WhatsApp at <a href={`https://wa.me/${SITE.whatsapp}`} target="_blank" rel="noopener noreferrer" class="text-gold-400 hover:text-gold-300">{SITE.whatsappDisplay}</a>.</p>
+
+        <h2>Assumption of Risk</h2>
+        <p>Adventure activities (such as ATV riding, white water rafting, volcano trekking, surfing, diving, and others) involve inherent risks. By booking these activities, you acknowledge that:</p>
+        <ul>
+          <li>You are physically and mentally capable of participating</li>
+          <li>You understand the risks involved and assume full responsibility for your safety</li>
+          <li>You will follow all safety instructions provided by Activity Providers</li>
+          <li>You are responsible for disclosing any medical conditions, injuries, or limitations to the Activity Provider before participating</li>
+        </ul>
+
+        <h2>Limitation of Liability</h2>
+        <p>Chill Bali Trips and {SITE.operator} act solely as intermediaries and are not liable for:</p>
+        <ul>
+          <li>Injuries, accidents, illness, death, or property damage occurring during activities</li>
+          <li>Delays, cancellations, or changes made by Activity Providers</li>
+          <li>Quality, safety, or conduct of Activity Providers or their employees</li>
+          <li>Lost or stolen personal belongings</li>
+          <li>Force majeure events (natural disasters, political unrest, pandemics, etc.)</li>
+        </ul>
+        <p>All activities are provided by independent third-party operators. Any claims, disputes, or issues arising from the activity itself must be directed to the Activity Provider, not Chill Bali Trips.</p>
+
+        <h2>Insurance</h2>
+        <p>We strongly recommend purchasing comprehensive travel insurance that covers adventure activities, medical emergencies, trip cancellations, and personal liability. Chill Bali Trips does not provide insurance coverage.</p>
+
+        <h2>No Guarantee of Availability</h2>
+        <p>While we strive to accommodate all requests, availability of activities, drivers, and services is subject to provider schedules, weather conditions, and local regulations. We cannot guarantee availability until a booking is confirmed.</p>
+
+        <h2>Code of Conduct</h2>
+        <p>Clients are expected to:</p>
+        <ul>
+          <li>Treat {SITE.operator}, drivers, guides, and Activity Providers with respect</li>
+          <li>Follow all safety rules and instructions provided by Activity Providers</li>
+          <li>Arrive on time for scheduled activities</li>
+          <li>Respect Balinese culture, traditions, and sacred sites</li>
+        </ul>
+        <p>Chill Bali Trips reserves the right to refuse service to anyone who behaves disrespectfully, dangerously, or unlawfully.</p>
+
+        <h2>Intellectual Property</h2>
+        <p>All content on the Chill Bali Trips website (text, images, design, branding) is the property of Chill Bali Trips or used under license (e.g., Unsplash images). You may not reproduce, distribute, or use any content without permission.</p>
+
+        <h2>Changes to These Terms</h2>
+        <p>We may update these terms from time to time. Any changes will be posted on this page with an updated "Last updated" date. Continued use of our services after changes are posted constitutes acceptance of the new terms.</p>
+
+        <h2>Governing Law</h2>
+        <p>These terms are governed by the laws of Indonesia. Any disputes arising from these terms or our services shall be resolved in accordance with Indonesian law.</p>
+
+        <h2>Contact Information</h2>
+        <p>If you have questions about these terms, please contact:</p>
+        <p><strong>Chill Bali Trips</strong><br>
+        Operator: {SITE.operator}<br>
+        Email: <a href="mailto:{SITE.email}" class="text-gold-400 hover:text-gold-300">{SITE.email}</a><br>
+        WhatsApp: <a href={`https://wa.me/${SITE.whatsapp}`} target="_blank" rel="noopener noreferrer" class="text-gold-400 hover:text-gold-300">{SITE.whatsappDisplay}</a><br>
+        Location: Bali, Indonesia</p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
