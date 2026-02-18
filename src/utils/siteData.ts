@@ -2,7 +2,7 @@ export const SITE = {
   name: 'Chill Bali Trips',
   tagline: "Bali's #1 Concierge Service",
   description: 'Premium Bali concierge service offering private tours, adventure activities, and personalized itineraries. Book your dream Bali experience with local expert Gede.',
-  url: 'https://chillbalitrips.com',
+  url: 'https://www.chillbalitrips.com',
   whatsapp: '+6287750128880',
   whatsappDisplay: '+62 877-5012-8880',
   whatsappMessage: "Hi! I found you on Chill Bali Trips and I'm planning a trip to Bali. Would love your help with...",

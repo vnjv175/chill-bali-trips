@@ -106,7 +106,7 @@ const relatedActivities = ACTIVITIES.filter(a => a.slug !== activity.slug).slice
               <div class="space-y-3">
                 {relatedActivities.map(r => (
                   <a href={`/activities/${r.slug}/`} class="flex items-center gap-3 p-2 -mx-2 rounded-lg hover:bg-white/5 transition-colors group">
-                    <div class="w-12 h-12 bg-ocean-800 rounded-lg flex items-center justify-center text-xl shrink-0">🌴</div>
+                    <img src={r.image} alt={r.title} class="w-12 h-12 rounded-lg object-cover shrink-0" loading="lazy" />
                     <div>
                       <p class="text-sm text-white group-hover:text-gold-400 transition-colors font-medium">{r.title}</p>
                       <p class="text-xs text-gray-500">{r.price}</p>

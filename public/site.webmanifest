@@ -1,0 +1,21 @@
+{
+  "name": "Chill Bali Trips",
+  "short_name": "Chill Bali",
+  "description": "Bali's #1 Concierge Service — Private tours, activities & custom itineraries",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1e3d",
+  "theme_color": "#0a1e3d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/images/hero/bali-og.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}

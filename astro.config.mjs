@@ -4,7 +4,7 @@ import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://chillbalitrips.com',
+  site: 'https://www.chillbalitrips.com',
   integrations: [
     tailwind(),
     sitemap(),
